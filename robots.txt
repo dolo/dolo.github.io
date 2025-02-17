@@ -1,1 +1,1 @@
-Sitemap: https://dolo.github.io/sitemap.xml
+Sitemap: https://labs.ac.cn/sitemap.xml
