@@ -5,6 +5,6 @@
 
   # dolo's Website
 
-  Visit **[dolo.github.io](https://dolo.github.io)** 🚀
+  Visit **[labs.ac.cn](https://labs.ac.cn)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
