@@ -1,1 +1,1 @@
-Sitemap: https://labs.ac.cn/sitemap.xml
+Sitemap: http://labs.ac.cn/sitemap.xml
