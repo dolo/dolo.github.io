@@ -15,8 +15,8 @@
 
 {%
   include button.html
-  link="公开发表"
-  text="See our publications"
+  link="research"
+  text="浏览我们公开发表的文献及代码"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -27,19 +27,19 @@
 {%
   include feature.html
   image="images/photo.jpg"
-  link="研究方向"
-  title="Our Research"
+  link="research"
+  title="我们的研究方向"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+AI赋能网络安全运营.
 
 {%
   include button.html
-  link="项目列表"
-  text="Browse our projects"
+  link="projects"
+  text="浏览我们的研究项目"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,8 +50,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="研究项目"
-  title="Our Projects"
+  link="projects"
+  title="研究项目"
   flip=true
   style="bare"
   text=text
@@ -59,12 +59,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+TBD2
 
 {%
   include button.html
-  link="研究团队"
-  text="Meet our team"
+  link="team"
+  text="团队成员"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -75,7 +75,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="团队照片"
-  title="Our Team"
+  link="team"
+  title="团队"
   text=text
 %}
