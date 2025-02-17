@@ -8,12 +8,9 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@dolo.com
+  email: labs@labs.ac.cn
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: dolo
-  twitter: dolo
-  youtube: dolo
 
 ### jekyll settings
 
