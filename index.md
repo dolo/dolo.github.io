@@ -1,21 +1,21 @@
 ---
 ---
 
-# dolo's Website
+# 束影实验室
 
-An engaging 1-3 sentence description of your lab.
+聚焦通信网络安全
 
 {% include section.html %}
 
-## Highlights
+## AI+网络安全
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+智能化分析 —— 自动化运营
 
 {%
   include button.html
-  link="research"
+  link="公开发表"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -27,7 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="研究方向"
   title="Our Research"
   text=text
 %}
@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="projects"
+  link="项目列表"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -50,7 +50,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
+  link="研究项目"
   title="Our Projects"
   flip=true
   style="bare"
@@ -63,7 +63,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="team"
+  link="研究团队"
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -75,7 +75,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
+  link="团队照片"
   title="Our Team"
   text=text
 %}
